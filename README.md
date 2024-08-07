@@ -1,3 +1,6 @@
+another link:https://zhuanlan.zhihu.com/p/429086021
+
+
 # 前端本地存储数据库IndexedDB完整教程
 ## 前言
 
